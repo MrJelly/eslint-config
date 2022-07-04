@@ -1,10 +1,10 @@
 {
   "name": "@jellyclub/eslint-config-basic",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "",
-  "author": "Jelly (https://github.com/jellyclub/)",
+  "author": "Jelly (https://github.com/mrjelly/)",
   "license": "MIT",
-  "homepage": "https://github.com/jellyclub/eslint-config",
+  "homepage": "https://github.com/mrjelly/eslint-config",
   "keywords": [
     "eslint-config"
   ],

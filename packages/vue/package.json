@@ -1,8 +1,8 @@
 {
   "name": "@jellyclub/eslint-config-vue",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "",
-  "author": "Jelly (https://github.com/jellyclub/)",
+  "author": "Jelly (https://github.com/mrjelly/)",
   "license": "MIT",
   "keywords": [
     "eslint-config"
