@@ -1,6 +1,6 @@
 {
   "name": "@jellyclub/eslint-config",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "ESLint config",
   "author": "Jelly (https://github.com/mrjelly/)",
   "license": "MIT",
